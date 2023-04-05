@@ -9,7 +9,7 @@ experiences:
 - place: "Cambridge University"
   time: "Winter 2023"
   title: "Visiting Student"
-  subtitle: "Cambridge Centre for AI in Medicine <br/> Advisor: Prof. Mihaela van der Schaar"
+  subtitle: "Cambridge Centre for AI in Medicine <br/> van der Schaar Lab: Machine learning and AI for medicine"
   category: "work"
 
 - place: "Seoul National University"
@@ -18,10 +18,20 @@ experiences:
   subtitle: "Double major in Chemistry, Computer Science and Engineering <br/> Summa Cum Laude"
   category: "school"
 
+- place: "AIGENDRUG Co. Ltd."
+  time: "2021-2022"
+  title: "Machine Learning Researcher"
+  subtitle: "AI-guided Drug Discovery Group"
+  category: "work"
+
+- place: "Korea Air Force"
+  time: "2019-2021"
+  title: "Air Traffic Control"
+  subtitle: "Seoul Air Base <br/> Best Air Traffic Control Award, Best Airmans Award"
+  category: "school"
+
 - place: "University College London"
   time: "Summer 2019"
   title: "Visiting Student"
-  subtitle: "Department of Chemistry <br/> Advisor: Prof. Matthew Powner"
+  subtitle: "Department of Chemistry <br/> Powner Lab: Investigating the Chemical Origins of Life"
   category: "work"
-
-
