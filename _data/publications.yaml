@@ -2,7 +2,7 @@ papers:
 
   - title: "Clinical Time Series Imputation using Conditional Information Bottleneck"
     authors: "<b>MinGyu Choi</b>, Changhee Lee"
-    venue: "NeurIPS23 DGM4H Workshop (Accepted)"
+    venue: "NeurIPS23 DGM4H (Deep Generative Models for Health) Workshop (Accepted)"
     # paper_pdf: "/assets/publications/2022_tricl/paper.pdf"
     selected: y
 
