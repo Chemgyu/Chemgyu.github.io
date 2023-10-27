@@ -10,13 +10,13 @@ papers:
     authors: "Sangsoo Lim, Sangseon Lee, Yinhua Piao, <b>MinGyu Choi</b>, Dongmin Bang, Jeonghyeon Gu, and Sun Kim"
     venue: "CSBJ22: Computational and Structural Biotechnology Journal 2022"
     paper_pdf: "/assets/publications/2022_chemical_review/paper.pdf"
-    selected: y
+    selected: n
 
   - title: "Triangular Contrastive Learning on Molecular Graphs"
     authors: "<b>MinGyu Choi</b>, Wonseok Shin, Yijingxiu Lu, and Sun Kim"
     venue: "MoML23: Molecular Machine Learning Conference (Accepted), ArXiv"
     paper_pdf: "/assets/publications/2022_tricl/paper.pdf"
-    selected: n
+    selected: y
 
 
   - title: "Genome mining reveals high topological diversity of ω-ester-containing peptides and divergent evolution of ATP-grasp macrocyclases"
