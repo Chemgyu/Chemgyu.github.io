@@ -8,7 +8,7 @@ papers:
 
   - title: "Triangular Contrastive Learning on Molecular Graphs"
     authors: "<b>MinGyu Choi</b>, Wonseok Shin, Yijingxiu Lu, and Sun Kim"
-    venue: "ArXiv"
+    venue: "MoML23: Molecular Machine Learning Conference (Accepted), ArXiv"
     paper_pdf: "/assets/publications/2022_tricl/paper.pdf"
     selected: n
 
