@@ -15,7 +15,7 @@ experiences:
 - place: "Cambridge University"
   time: "Winter 2023"
   title: "Visiting Student"
-  subtitle: "Cambridge Centre for AI in Medicine <br/> van der Schaar Lab: Machine learning and AI for medicine"
+  subtitle: "Cambridge Centre for AI in Medicine"
   category: "work"
 
 - place: "Seoul National University"
@@ -29,12 +29,6 @@ experiences:
   title: "Machine Learning Researcher"
   subtitle: "AI-guided Drug Discovery Group"
   category: "work"
-
-- place: "Korea Air Force"
-  time: "2019-2021"
-  title: "Air Traffic Control"
-  subtitle: "Seoul Air Base <br/> Best Air Traffic Control Award, Best Airmans Award"
-  category: "school"
 
 - place: "University College London"
   time: "Summer 2019"
