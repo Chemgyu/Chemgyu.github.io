@@ -11,13 +11,14 @@ papers:
     authors: "Sangsoo Lim, Sangseon Lee, Yinhua Piao, <b><ins>MinGyu Choi</ins></b>, Dongmin Bang, Jeonghyeon Gu, and Sun Kim"
     venue: "CSBJ22: Computational and Structural Biotechnology Journal 2022"
     paper_pdf: "/assets/publications/2022_chemical_review/paper.pdf"
+    data: "https://www.sciencedirect.com/science/article/pii/S2001037022003300"
     selected: n
 
   - title: "Triangular Contrastive Learning on Molecular Graphs"
     authors: "<b><ins>MinGyu Choi</ins></b>, Wonseok Shin, Yijingxiu Lu, and Sun Kim"
     venue: "MoML23: Molecular Machine Learning Conference"
     paper_pdf: "/assets/publications/2022_tricl/paper.pdf"
-    data: "https://arxiv.org/abs/2205.13279"
+    arxiv: "https://arxiv.org/abs/2205.13279"
     selected: y
 
 
@@ -25,6 +26,7 @@ papers:
     authors: "Hyunbin Lee, <b><ins>MinGyu Choi</ins></b>, Jung-Un Park, Heejin Roh, and Seokhee Kim"
     venue: "JACS20: Journal of the American Chemical Society"
     paper_pdf: "/assets/publications/2020_ripp/paper.pdf"
+    data: "https://pubs.acs.org/doi/10.1021/jacs.9b12076"
     selected: y
 
   # - title: "The Structure of Toxic Conversations on Twitter"
