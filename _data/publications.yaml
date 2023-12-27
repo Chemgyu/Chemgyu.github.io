@@ -4,7 +4,8 @@ papers:
     authors: "<b><ins>MinGyu Choi</ins></b>, Changhee Lee"
     venue: "NeurIPS23 DGM4H (Deep Generative Models for Health) Workshop"
     openreview: "https://openreview.net/forum?id=wsFCbuDwxY"
-    paper_pdf: "/assets/publications/23NIPS_DGM4H_CIB.pdf"
+    paper_pdf: "/assets/publications/2023_CIB/23NIPS_DGM4H_CIB.pdf"
+    poster: "/assests/publications/2023_CIB/NIPS_Poster.pdf
     selected: y
 
   - title: "On Modeling and Utilizing Chemical Compound Information with Deep Learning Technologies: A Task-oriented Approach"
@@ -18,6 +19,7 @@ papers:
     authors: "<b><ins>MinGyu Choi</ins></b>, Wonseok Shin, Yijingxiu Lu, and Sun Kim"
     venue: "MoML23: Molecular Machine Learning Conference"
     paper_pdf: "/assets/publications/2022_tricl/paper.pdf"
+    poster: "/assets/publications/2022_tricl/MoML_poster_TriCL.pdf
     arxiv: "https://arxiv.org/abs/2205.13279"
     selected: y
 
