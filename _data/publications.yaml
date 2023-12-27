@@ -5,7 +5,7 @@ papers:
     venue: "NeurIPS23 DGM4H (Deep Generative Models for Health) Workshop"
     openreview: "https://openreview.net/forum?id=wsFCbuDwxY"
     paper_pdf: "/assets/publications/2023_CIB/23NIPS_DGM4H_CIB.pdf"
-    poster: "/assests/publications/2023_CIB/NIPS_Poster.pdf
+    poster: "/assests/publications/2023_CIB/NIPS_Poster.pdf"
     selected: y
 
   - title: "On Modeling and Utilizing Chemical Compound Information with Deep Learning Technologies: A Task-oriented Approach"
