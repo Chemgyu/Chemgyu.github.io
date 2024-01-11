@@ -3,13 +3,13 @@ experiences:
 - place: "MIT"
   time: "2023 - Present"
   title: "Ph.D. Student"
-  subtitle: "Department of Chemistry"
+  subtitle: "CSAIL, Chemistry <br/> Adviser: Tommi Jaakkola and Regina Barzilay"
   category: "school"
 
 - place: "Chung-ang University"
   time: "Spring and Summer 2023"
   title: "Visiting Student"
-  subtitle: "Decision Intelligence Lab"
+  subtitle: "Decision Intelligence Lab <br/> Adviser: Changhee Lee"
   category: "work"
 
 - place: "Cambridge University"
@@ -33,5 +33,5 @@ experiences:
 - place: "University College London"
   time: "Summer 2019"
   title: "Visiting Student"
-  subtitle: "Department of Chemistry <br/> Powner Lab: Investigating the Chemical Origins of Life"
+  subtitle: "Department of Chemistry <br/> Adviser: Matthew Powner"
   category: "work"
