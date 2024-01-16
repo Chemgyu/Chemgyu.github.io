@@ -2,7 +2,7 @@ papers:
 
   - title: "Conditional Information Bottleneck Approach for Time Series Imputation"
     authors: "<b><ins>MinGyu Choi</ins></b>, Changhee Lee"
-    venue: "ICLR 2024"
+    venue: "ICLR24: International Conference on Learning Representations"
     openreview: "https://openreview.net/forum?id=K1mcPiDdOJ"
     # paper_pdf: "/assets/publications/2023_CIB/23NIPS_DGM4H_CIB.pdf"
     # poster: "/assests/publications/2023_CIB/NIPS_Poster.pdf"
