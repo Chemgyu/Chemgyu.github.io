@@ -1,5 +1,12 @@
 papers:
-
+  - title: "Protein Generator with Ribosomal Origin and Folding"
+    authors: "<b><ins>MinGyu Choi</ins></b>, Derek Chen, Tommi Jaakkola, and Regina Barzilay"
+    venue: "ICLR25 GenBio (Generative AI and Biology) Workshop"
+    openreview: "https://openreview.net/forum?id=AJXT4TNXKN"
+    # paper_pdf: "/assets/publications/2023_CIB/23NIPS_DGM4H_CIB.pdf"
+    # poster: "/assests/publications/2023_CIB/NIPS_Poster.pdf"
+    selected: y
+    
   - title: "Click To Stack: Shape-Assisted Self-Assembly of Unflattened Macrocycles into Waveguiding Elastic Crystals"
     authors: "Hongsik Kim, Jung Bae Son, Myeongsu Jeong, Youmin Ahn, <b><ins>MinGyu Choi</ins></b>, Seungju Kang, Nam Ki Lee, and Dongwhan Lee"
     venue: "JACS25: Journal of the American Chemical Society"
