@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Click To Stack: Shape-Assisted Self-Assembly of Unflattened Macrocycles into Waveguiding Elastic Crystals"
+    authors: "Hongsik Kim, Jung Bae Son, Myeongsu Jeong, Youmin Ahn, <b><ins>MinGyu Choi</ins></b>, Seungju Kang, Nam Ki Lee, and Dongwhan Lee"
+    venue: "JACS25: Journal of the American Chemical Society"
+    # paper_pdf: "/assets/publications/2020_ripp/paper.pdf"
+    data: "https://pubs.acs.org/doi/full/10.1021/jacs.5c02849"
+    selected: n
+
   - title: "Conditional Information Bottleneck Approach for Time Series Imputation"
     authors: "<b><ins>MinGyu Choi</ins></b>, Changhee Lee"
     venue: "ICLR24: International Conference on Learning Representations"
@@ -14,7 +21,7 @@ papers:
     openreview: "https://openreview.net/forum?id=wsFCbuDwxY"
     paper_pdf: "/assets/publications/2023_CIB/23NIPS_DGM4H_CIB.pdf"
     poster: "/assests/publications/2023_CIB/NIPS_Poster.pdf"
-    selected: y
+    selected: n
 
   - title: "On Modeling and Utilizing Chemical Compound Information with Deep Learning Technologies: A Task-oriented Approach"
     authors: "Sangsoo Lim, Sangseon Lee, Yinhua Piao, <b><ins>MinGyu Choi</ins></b>, Dongmin Bang, Jeonghyeon Gu, and Sun Kim"
