@@ -13,7 +13,7 @@ papers:
     data: "https://www.nature.com/articles/s41586-025-08756-y"
     # paper_pdf: "/assets/publications/2023_CIB/23NIPS_DGM4H_CIB.pdf"
     # poster: "/assests/publications/2023_CIB/NIPS_Poster.pdf"
-    selected: y
+    selected: n
     
   - title: "Click To Stack: Shape-Assisted Self-Assembly of Unflattened Macrocycles into Waveguiding Elastic Crystals"
     authors: "Hongsik Kim, Jung Bae Son, Myeongsu Jeong, Youmin Ahn, <b><ins>MinGyu Choi</ins></b>, Seungju Kang, Nam Ki Lee, and Dongwhan Lee"
