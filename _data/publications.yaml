@@ -1,8 +1,16 @@
 papers:
   - title: "Protein Generator with Ribosomal Origin and Folding"
     authors: "<b><ins>MinGyu Choi</ins></b>, Derek Chen, Tommi Jaakkola, and Regina Barzilay"
-    venue: "ICLR25 GenBio (Generative AI and Biology) Workshop"
+    venue: "ICML25 GenBio (Generative AI and Biology) Workshop"
     openreview: "https://openreview.net/forum?id=AJXT4TNXKN"
+    # paper_pdf: "/assets/publications/2023_CIB/23NIPS_DGM4H_CIB.pdf"
+    # poster: "/assests/publications/2023_CIB/NIPS_Poster.pdf"
+    selected: y
+
+  - title: "Oxidation of retromer complex controls mitochondrial translation"
+    authors: "Junbing Zhang, Md Yousuf Ali, Harrison Byron Chong, ... , <b><ins>MinGyu Choi</ins></b>, ... , Liron Bar-Peled"
+    venue: "Nature"
+    data: "https://www.nature.com/articles/s41586-025-08756-y"
     # paper_pdf: "/assets/publications/2023_CIB/23NIPS_DGM4H_CIB.pdf"
     # poster: "/assests/publications/2023_CIB/NIPS_Poster.pdf"
     selected: y
